@@ -32,3 +32,6 @@ across departments — inspired by real Amazon QA operations.
 *Developed a Quality Defect Analysis dashboard in Power BI analyzing 
 10,000+ records, identifying top error categories and reducing manual 
 reporting effort by 40%*
+
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
